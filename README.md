@@ -30,11 +30,11 @@ class Developer {
 
 ## **GitHub Estatísticas**
 
-<a href="https://github.com/Gurupreet">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubureba&theme=dracula&hide_langs_below=1&line_height=40" />
+<a href="https://github.com/jubureba">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jubureba&hide_langs_below=1&line_height=40" />
 </a>
 
-<a href="https://github.com/Gurupreet">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubureba&show_icons=true&theme=dracula&line_height=40" alt="**SEU NOME** github stats"/>
+<a href="https://github.com/jubureba">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=jubureba&show_icons=true&line_height=40" alt="**Anderson Lima** github stats"/>
 </a>
 
